@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 806bfa92bb516294b93253263d877846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6092867905023893244
+    second: floors and others_0
+  - first:
+      213: -6996663454248686117
+    second: floors and others_1
+  - first:
+      213: 8378969798624615888
+    second: floors and others_2
+  - first:
+      213: -8446610631101904594
+    second: floors and others_3
+  - first:
+      213: -4031976268568763986
+    second: floors and others_4
+  - first:
+      213: 6590030922304539253
+    second: floors and others_5
+  - first:
+      213: 2829676907551676445
+    second: floors and others_6
+  - first:
+      213: -8836304649896204649
+    second: floors and others_7
+  - first:
+      213: 8935804348005001778
+    second: floors and others_8
+  - first:
+      213: 7301844344191426814
+    second: floors and others_9
+  - first:
+      213: -8380451089748130506
+    second: floors and others_10
+  - first:
+      213: 968619416453769219
+    second: floors and others_11
+  - first:
+      213: -8898168433692437559
+    second: floors and others_12
+  - first:
+      213: 1168691908324365205
+    second: floors and others_13
+  - first:
+      213: -7565223720121333745
+    second: floors and others_14
+  - first:
+      213: 3298833030168019774
+    second: floors and others_15
+  - first:
+      213: -4788467810200347625
+    second: floors and others_16
+  - first:
+      213: -6942054428389276180
+    second: floors and others_17
+  - first:
+      213: -8301281200931851101
+    second: floors and others_18
+  - first:
+      213: -3297761496422453678
+    second: floors and others_19
+  - first:
+      213: -7081970390642846897
+    second: floors and others_20
+  - first:
+      213: 6959869200403611880
+    second: floors and others_21
+  - first:
+      213: 143935073031226910
+    second: floors and others_22
+  - first:
+      213: 2728333533098319839
+    second: floors and others_23
+  - first:
+      213: 483003427371711409
+    second: floors and others_24
+  - first:
+      213: 2443971013513866123
+    second: floors and others_25
+  - first:
+      213: 8798369294383871783
+    second: floors and others_26
+  - first:
+      213: 8740897646607873354
+    second: floors and others_27
+  - first:
+      213: -8902201465022452557
+    second: floors and others_28
+  - first:
+      213: -7748909655650867634
+    second: floors and others_29
+  - first:
+      213: 2550581197550387639
+    second: floors and others_30
+  - first:
+      213: -951208204929117798
+    second: floors and others_31
+  - first:
+      213: 8053848983933607110
+    second: floors and others_32
+  - first:
+      213: -4210279670121820345
+    second: floors and others_33
+  - first:
+      213: -9192690063596582048
+    second: floors and others_34
+  - first:
+      213: 8548985457539441437
+    second: floors and others_35
+  - first:
+      213: -7884465277597332619
+    second: floors and others_36
+  - first:
+      213: 6238758270919865317
+    second: floors and others_37
+  - first:
+      213: -3818888586199320273
+    second: floors and others_38
+  - first:
+      213: -4921166211888566769
+    second: floors and others_39
+  - first:
+      213: -725913208444643758
+    second: floors and others_40
+  - first:
+      213: 3040898233777352632
+    second: floors and others_41
+  - first:
+      213: 676200687946188869
+    second: floors and others_42
+  - first:
+      213: -1635226472667262619
+    second: floors and others_43
+  - first:
+      213: -4808378136134928050
+    second: floors and others_44
+  - first:
+      213: 946038318961186218
+    second: floors and others_45
+  - first:
+      213: 2489218265208046016
+    second: floors and others_46
+  - first:
+      213: 3387828311921998699
+    second: floors and others_47
+  - first:
+      213: -7928230865609473929
+    second: floors and others_48
+  - first:
+      213: -2164854480439728076
+    second: floors and others_49
+  - first:
+      213: 4742338892801037759
+    second: floors and others_50
+  - first:
+      213: -8780824372694335931
+    second: floors and others_51
+  - first:
+      213: -1453636968812930277
+    second: floors and others_52
+  - first:
+      213: -5996318827788388827
+    second: floors and others_53
+  - first:
+      213: -3981298451387526679
+    second: floors and others_54
+  - first:
+      213: 98951770340818818
+    second: floors and others_55
+  - first:
+      213: 538915948207424414
+    second: floors and others_56
+  - first:
+      213: -1089949519975576659
+    second: floors and others_57
+  - first:
+      213: 5955831382417899224
+    second: floors and others_58
+  - first:
+      213: -7036571888962541450
+    second: floors and others_59
+  - first:
+      213: -2363976120103090648
+    second: floors and others_60
+  - first:
+      213: 8350674172694639951
+    second: floors and others_61
+  - first:
+      213: 3166529040751873336
+    second: floors and others_62
+  - first:
+      213: -340849546680343864
+    second: floors and others_63
+  - first:
+      213: 7786420848721110661
+    second: floors and others_64
+  - first:
+      213: 3363488490772865683
+    second: floors and others_65
+  - first:
+      213: -2312726390043705276
+    second: floors and others_66
+  - first:
+      213: 3807941197510052046
+    second: floors and others_67
+  - first:
+      213: 3220565890732908053
+    second: floors and others_68
+  - first:
+      213: 3360653793327903600
+    second: floors and others_69
+  - first:
+      213: 8635029981030165910
+    second: floors and others_70
+  - first:
+      213: 6904674981684762532
+    second: floors and others_71
+  - first:
+      213: 8431033370792590591
+    second: floors and others_72
+  - first:
+      213: 5789151205198972377
+    second: floors and others_73
+  - first:
+      213: 5019103633938558700
+    second: floors and others_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floors and others_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c395411918671064fbdb0898d47c3ef2
+      internalID: 6092867905023893244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 476
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa07a43d24054041aff88c92b226da4
+      internalID: -6996663454248686117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 476
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd178786545a74d91c3e4a4517ed95
+      internalID: 8378969798624615888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 476
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d36409e9dd3ad04a83fd7d727f38ebc
+      internalID: -8446610631101904594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 476
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5904886f2687f4daed9422823b01ae
+      internalID: -4031976268568763986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52517107dd3568418be904327e8b6be
+      internalID: 6590030922304539253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 376
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895eab14eac7c9419916144ece4fdc7
+      internalID: 2829676907551676445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458bd28995932fa44815bb999dff1235
+      internalID: -8836304649896204649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 376
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc61c9dfeb56a948a80a4874ece7a69
+      internalID: 8935804348005001778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 376
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb89ac5d02b9ed4d8583d3593fd6207
+      internalID: 7301844344191426814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6709bef177eb9294b9c0677402697de1
+      internalID: -8380451089748130506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63bf11dcdf976a4d94f288fbaf218f5
+      internalID: 968619416453769219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 276
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235b08aa7a8978408484ec9936dc6d6
+      internalID: -8898168433692437559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 276
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e169336edbb93a44aeb0d6c9ffb98fa
+      internalID: 1168691908324365205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 276
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3c62f0035d814f92bc2f341eafb5d
+      internalID: -7565223720121333745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d0410730fd634798a009afbe57a0e
+      internalID: 3298833030168019774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 276
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a049ecb668f274a88630aad8ea515d
+      internalID: -4788467810200347625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a869665482db164aa75573ba409f35a
+      internalID: -6942054428389276180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 176
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3805f2e14fb81b845b9ed5df08d565b7
+      internalID: -8301281200931851101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 176
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d9cdf2bafd5344b5ee0a3e2f5dad8
+      internalID: -3297761496422453678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 141
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 3, z: 4, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c4b79035a394c46a947dbb3a68d03c
+      internalID: -7081970390642846897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 95
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74891605a9854604c8e2dd75c15bf0f6
+      internalID: 6959869200403611880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 176
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5553e423a4ce646a27e721c5cc5611
+      internalID: 143935073031226910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 176
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14cc4d74e449046a33366ea1eefc3b
+      internalID: 2728333533098319839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750db15cc4505ef4ebd9b79fc22f3f39
+      internalID: 483003427371711409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928e25730a5ceec45bb3dcf795094149
+      internalID: 2443971013513866123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80427fec37c78a143817ff1bba5fb373
+      internalID: 8798369294383871783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212695857119a994db251f70c3eeaa36
+      internalID: 8740897646607873354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2288663413016114785b1ebf978e07d2
+      internalID: -8902201465022452557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 76
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb420e0a6e4b9274cbce73acfd4dad6c
+      internalID: -7748909655650867634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors and others_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 76
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954346b4474723645a8a3fcba54698bc
+      internalID: 2550581197550387639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
